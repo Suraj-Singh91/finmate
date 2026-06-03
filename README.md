@@ -11,7 +11,7 @@ Finmate is an AI-powered chatbot to assist bank users with queries, loan checks,
 
 ## Technologies Used
 
-- **Frontend:** Next.js
+- **Frontend:** Next.js, JavaScript
 - **Backend:** Flask, Python
 - **Database:** Elasticsearch
 - **Cloud Services:** Google Cloud (Translate, Voice API)
